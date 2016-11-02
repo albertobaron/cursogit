@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title> Fichero 1</title>
+  <title> Fichero 1 pero editado en el rebase</title>
 </head>
 <body>
   <h1> Titulo del fichero</h1>
