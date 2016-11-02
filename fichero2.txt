@@ -1,1 +1,5 @@
-fichero 2 editado en el rebase
+<html>
+<body>
+   <p>Segundo fichero editado en una nueva rama<p>
+</body>
+</html>
